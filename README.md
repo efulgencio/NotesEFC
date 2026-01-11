@@ -1,6 +1,8 @@
 # NotesEFC
 Graba y registra notas.
 
+![](notes_efc.mov)
+
 
 🎙️ EchoSummary: Arquitectura de procesamiento de audio y NLP en iOS
 He desarrollado EchoSummary, una implementación nativa en Swift que combina la captura de señales de audio con el procesamiento de lenguaje natural (NLP) para la extracción automatizada de conceptos clave.
